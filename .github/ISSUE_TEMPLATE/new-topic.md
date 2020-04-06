@@ -3,7 +3,7 @@ name: New Topic
 about: New Topic
 title: "[2020.{month}.{date}] {Topic}"
 labels: "\U0001F9BBNew Topic"
-assignees: BKJang, SeonHyungJo
+assignees: BKJang, SeonHyungJo, CaterJo
 
 ---
 
